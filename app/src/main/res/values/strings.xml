@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NNDraw</string>
+    <string name="upscale">UpScale</string>
+    <string name="downscale">DownScale</string>
+    <string name="clear">Clear</string>
+    <string name="loading_trained_model">Loading trained model</string>
+    <string name="undefined">\?</string>
+</resources>

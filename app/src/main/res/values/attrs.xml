@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="Drawer28View">
+        <attr name="emptyPixelValue" format="float"/>
+        <attr name="paintPixelValue" format="float"/>
+    </declare-styleable>
+
+    <attr name="drawerViewStyle" format="reference"/>
+    
+</resources>
